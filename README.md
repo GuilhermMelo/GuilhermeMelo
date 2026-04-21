@@ -111,14 +111,17 @@ Busco minha primeira oportunidade profissional para contribuir em sistemas trans
 
 ---
 
+
+
 ## Formação
 
 | Ano | Curso | Instituição |
 |---|---|---|
 | 2024 | Análise e Desenvolvimento de Sistemas | FIAP |
 | 2025 | Pós-graduação — Engenharia de Dados | XP Educação |
-| 2025 | Pós-graduação — Análise de Dados | XP Educação |
-| 2025 *(cursando)* | Pós-graduação — Engenharia de Dados com IA | XP Educação |
+| 2025 | Pós-graduação — Arquitetura de Dados | XP Educação |
+| 2025 | Pós-graduação — Engenharia de Dados com IA | XP Educação |
+| 2025 | Pós-graduação — IA Expert | XP Educação |
 | 2025 | Formação Full Stack | MFX Cursos |
 
 ---
